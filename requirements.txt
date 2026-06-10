@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain-openai
+langgraph
+chromadb
+langchain
+pydantic
+openai
+tiktoken
